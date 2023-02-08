@@ -22,4 +22,3 @@ int	main()
 	randomChump("Pinto");
 	delete z;
 }
-
